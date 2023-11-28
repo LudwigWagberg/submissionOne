@@ -1,0 +1,11 @@
+När använder man add respektive commit?
+git add lägger till ändringar i staging area, git commit sparar ändringarna till local repository.
+
+Vad är pull repektive push?
+git push laddar upp commitade ändringar till central repositoryt, git pull hämtar dem. 
+
+När använder man log respektive status?
+git log visar alla commits, git status visar vad som behöver commitas och addas och lite andra saker.
+
+Vad är en Git branch och varför är de viktiga?
+En git branch är en kopia av main fast att man kan jobba där utan att påverka historiken i main branchen.
