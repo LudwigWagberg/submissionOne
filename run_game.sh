@@ -25,9 +25,6 @@ java GuessingGame
 
 echo "Done!"
 
+rm *.class
 
-
-rm -r /home/ludwag/guessingGame/Ludwig_Wagberg_labb
-
-cd /home/ludwag/guessingGame/
 ls
